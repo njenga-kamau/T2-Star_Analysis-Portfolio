@@ -9,10 +9,10 @@ Table of Contents
 4. Results Highlights
 5. Acknowledgments
 
-Introduction
+Introduction:
 This study explores the neuroanatomical impact of radiation-induced brain injury (RIBI), with an emphasis on the olfactory system as a sensitive iron-dependent structure. Using advanced T2* MRI relaxometry, over 600 brain regions were analyzed for significant changes in volume and iron accumulation a year post-radiation.
 
-Project Structure
+Project Structure:
 The repository includes the following directories:
 
 Data Loading: Scripts and sample data for importing MRI datasets and neuroanatomical labels.
@@ -42,5 +42,5 @@ Identified 18 neuroanatomical subregions with significant changes in both volume
 The olfactory system exhibited the most pronounced changes, potentially linking iron accumulation to cognitive decline post-radiation.
 
 
-Acknowledgments
+Acknowledgments:
 This research was supported by NIH grant R21CA270742, the Radiation Research Foundation, and the University of Iowa's Holden Comprehensive Cancer Center.
