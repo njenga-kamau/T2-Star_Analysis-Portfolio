@@ -1,4 +1,5 @@
 # T2-Star_Analysis-Portfolio
+Published Paper: https://www.mdpi.com/2035-8377/17/4/53
 
 This repository presents the analysis and code used for the study titled "Combined MR volumetry and relaxometry reveals the olfactory system as a critical iron-dependent structure affected by radiation". The study investigates the effects of whole-brain irradiation on adult mice, focusing on T2* MRI metrics sensitive to iron accumulation. The repository provides a detailed breakdown of the analysis pipeline, from data preprocessing to statistical analysis and visualization.
 
