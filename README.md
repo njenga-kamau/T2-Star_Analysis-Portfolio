@@ -26,9 +26,10 @@ Data Loading:
 
 Imported MRI datasets and aligned them with the P56 Mouse Brain atlas.
 Applied high-order B0 shimming for field uniformity and registered anatomical images.
+
 Preprocessing:
 
-Generated T2* maps using a 2D multi-echo GRE sequence.
+Generated T2* maps using a 2D multi-echo sequence.
 Co-registered maps to anatomical images to isolate neuroanatomical structures.
 Statistical Analysis:
 
